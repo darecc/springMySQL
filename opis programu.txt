@@ -1,0 +1,30 @@
+Na podstawie filmików
+1.
+https://www.youtube.com/watch?v=HlvF2TlA1Yo
+
+2.
+https://www.youtube.com/watch?v=YywLS8XdxLQ
+https://www.youtube.com/watch?v=35EQXmHKZYs
+
+3. Rodzaje widoków wspierane przez spring:
+   https://www.baeldung.com/spring-template-engines
+
+
+Konto:
+firstName
+lastName
+password
+balance
+accountNumber
+id
+
+Operacja bankowa:
+rodzaj: wpłata, wypłata
+kwota
+data
+idKlienta/accountNumber
+
+polityka ustalania numerów
+logowania się klienta
+operacje klienta
+tabela kont
